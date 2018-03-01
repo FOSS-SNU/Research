@@ -1,5 +1,5 @@
 # Research
-Resources for research in the field of computer vision, machine learning, AI and Blockchain
+Resources for research in the field of computer vision, machine learning, deep learning, AI and Blockchain
 
 # Papers
 ## Image Compression
